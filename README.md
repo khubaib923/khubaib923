@@ -1,25 +1,50 @@
-<h1 align="center">Hello Proletariats 👋, I am Muhammad Khubaib Irfan</h1>
-<h3 align="center">Flutter developer!</h3>  
+# 👋 Hello, I'm Muhammad Khubaib Irfan
 
+🚀 **.NET Core | .NET MVC (4.5) | ReactJS | SQL | Azure | Clean Architecture**
 
+---
 
-- 🔭 I’m currently working on **Flutter**
+### 👨‍💻 About Me
+I’m **Muhammad Khubaib Irfan**, a **Software Engineer** from **UBIT, University of Karachi**, with **nearly 3 years of professional experience** in building scalable, secure, and high-performance web applications.
 
-- 🌱 Databases **Firebase,SQLite **
+My professional background includes working with **.NET Core**, **ReactJS**, **SQL Server**, and **Azure**, using **Clean Architecture** and **SOLID principles** to deliver maintainable and efficient enterprise-level systems.
 
-- 🤝 I’m looking for help with **freelance projects**
+> 🔒 _Note:_ Most of my work involves **private company projects**, so I’m unable to share source code publicly due to confidentiality agreements. However, I’m always open to discussing my technical approach, architecture, and problem-solving methods during interviews.
 
-- 💬 Ask me about **Mobile Application Technologies**
+---
 
-- ⚡ Fun fact **I spend most of the time in reading Literature, history, philosophy, Marxism and Everyday science!**
+### ⚙️ Tech Stack
+- 💻 **Backend:** .NET Core | .NET 4.5 | ASP.NET MVC | Web API | Microservices  
+- 🌐 **Frontend:** ReactJS | JavaScript | jQuery | HTML | CSS  
+- 🗄️ **Database:** SQL Server  
+- ☁️ **Cloud & DevOps:** Microsoft Azure  
+- 🧩 **Architecture & Principles:** Clean Architecture | SOLID | REST APIs  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-<a href="https://www.linkedin.com/in/khubaib-irfan-7696121a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khubaib-irfan-7696121a2" height="30" width="40" /></a>
-<a href="https://www.facebook.com/syedkhubaib.irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedkhubaib.irfan" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>         <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>         <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>                       <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### 🔍 What I’m Currently Working On
+- Building secure and modular enterprise solutions in **.NET 8 and ReactJS**
+- Learning **Azure Cloud Services**, **Microservices**, and **AI integration**
 
-<img src= "https://github-readme-stats.vercel.app/api?username=khubaib923&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+---
+
+### 🤝 I’m Open To
+- Full-time or freelance opportunities in **.NET / ReactJS / Azure Development**
+- Collaborating on innovative, scalable web applications
+
+---
+
+### 📫 Connect With Me
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/> **LinkedIn**](https://www.linkedin.com/in/muhammad-khubaib-irfan/)  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="25"/> **Facebook**](https://www.facebook.com/syedkhubaib.irfan)
+
+---
+
+### 🧠 Fun Fact
+> I’m passionate about exploring **Clean Architecture patterns**, reading **tech literature**, and staying updated with **AI and cloud advancements**.
+
+---
+
+### 📊 GitHub Stats
+![Khubaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khubaib923&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khubaib923&layout=compact&theme=radical)
