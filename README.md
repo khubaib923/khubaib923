@@ -1,26 +1,33 @@
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+.NET+%26+React+Developer;Clean+Architecture+%7C+Azure+%7C+Microservices;Passionate+about+AI+and+Cloud+Technology" alt="Typing SVG" />
+</p>
+
 <h1 align="center">👋 Hello, I'm <span style="color:#0078D7;">Muhammad Khubaib Irfan</span></h1>
 
-<h3 align="center">🚀 .NET Core | .NET MVC (4.5) | ReactJS | SQL | Azure | Clean Architecture</h3>
+<h3 align="center">🚀 .NET Core | .NET 4.5 | ASP.NET Core MVC | ASP.NET Web API | ReactJS | SQL | Azure | Clean Architecture</h3>
 
 ---
 
-### 👨‍💻 About Me
-I’m **Muhammad Khubaib Irfan**, a **Software Engineer** from **UBIT, University of Karachi**, with **nearly 3 years of professional experience** in building scalable, secure, and high-performance web applications.  
+### 🧑‍💼 Bio
+I’m **Muhammad Khubaib Irfan**, a **Software Engineer** from **UBIT, University of Karachi**, with **3 years of hands-on experience** in developing scalable, secure, and enterprise-grade applications.  
 
-I specialize in **.NET Core**, **ReactJS**, **SQL Server**, and **Azure**, leveraging **Clean Architecture** and **SOLID principles** to develop maintainable enterprise solutions.  
+I specialize in **.NET Core**, **ReactJS**, **SQL**, and **Azure**, following **Clean Architecture** and **SOLID principles** to ensure maintainable and reliable systems.  
+I’m currently working on **.NET 8** and **ReactJS** projects, integrating **microservices** and **cloud-based solutions**.  
 
-> 🔒 *Note:* Most of my work involves private company projects, so I’m unable to share source code publicly due to confidentiality agreements.  
-> However, I’m always open to discussing my technical approach, architecture, and problem-solving methods during interviews.
+> 💡 *My goal is to build smart, efficient, and cloud-powered systems that solve real-world business challenges.*
 
 ---
 
 ### ⚙️ Tech Stack
 
 #### 💻 Backend
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web_API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET 4.5](https://img.shields.io/badge/.NET_4.5-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
@@ -30,7 +37,7 @@ I specialize in **.NET Core**, **ReactJS**, **SQL Server**, and **Azure**, lever
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🗄️ Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
 
 #### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -41,8 +48,8 @@ I specialize in **.NET Core**, **ReactJS**, **SQL Server**, and **Azure**, lever
 ---
 
 ### 🔍 What I’m Currently Working On
-- 🔸 Building secure and modular enterprise solutions in **.NET 8** and **ReactJS**  
-- 🔸 Learning **Azure Cloud Services**, **Microservices**, and **AI integration**
+- 🔸 Developing enterprise solutions in **.NET 8** and **ReactJS**  
+- 🔸 Exploring **Azure Cloud Services**, **Microservices**, and **AI integration**
 
 ---
 
@@ -53,7 +60,7 @@ I specialize in **.NET Core**, **ReactJS**, **SQL Server**, and **Azure**, lever
 ---
 
 ### 📫 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-khubaib-irfan-7696121a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -62,7 +69,7 @@ I specialize in **.NET Core**, **ReactJS**, **SQL Server**, and **Azure**, lever
 ---
 
 ### 🧠 Fun Fact
-> I’m passionate about exploring **Clean Architecture patterns**, reading **tech literature**, and staying updated with **AI** and **cloud advancements**.
+> I’m passionate about **Clean Architecture**, **AI-driven development**, and exploring how **Azure** can transform enterprise systems.
 
 ---
 
