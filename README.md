@@ -35,8 +35,7 @@ My professional background includes working with **.NET Core**, **ReactJS**, **S
 ---
 
 ### 📫 Connect With Me
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/> **LinkedIn**](https://www.linkedin.com/in/muhammad-khubaib-irfan/)  
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="25"/> **Facebook**](https://www.facebook.com/syedkhubaib.irfan)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/> **LinkedIn**](https://www.linkedin.com/in/muhammad-khubaib-irfan-7696121a2)
 
 ---
 
